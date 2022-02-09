@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: .5rem;
+  top: 15%;
+  background: rgba(0, 0, 0, 0.212);
+  background: linear-gradient(to right, red, yellow);
+}
+
+h5{
+  letter-spacing: 0rem;
+  font-family: 'Courier New', Courier, monospace;
+}
